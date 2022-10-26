@@ -1,4 +1,4 @@
-package ro.ase.seminar6;
+package ro.ase.seminar7;
 
 public final class ContDebitor extends ContBancar implements IBeneficii {
     public final double BALANTA_MIN = 10.0;

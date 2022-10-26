@@ -1,4 +1,4 @@
-package ro.ase.seminar6;
+package ro.ase.seminar7;
 
 public final class ContCreditor extends ContBancar {
     public final double MAX_CREDIT = 1000.0;

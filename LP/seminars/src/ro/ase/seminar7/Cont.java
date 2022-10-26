@@ -1,4 +1,4 @@
-package ro.ase.seminar6;
+package ro.ase.seminar7;
 
 public abstract class Cont {
     public abstract void Depunere(double suma);

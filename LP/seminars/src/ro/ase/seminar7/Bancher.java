@@ -1,4 +1,4 @@
-package ro.ase.seminar6;
+package ro.ase.seminar7;
 
 public final class Bancher {
     private static Bancher instance;

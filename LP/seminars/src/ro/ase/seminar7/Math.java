@@ -1,4 +1,4 @@
-package ro.ase.seminar6;
+package ro.ase.seminar7;
 
 import static java.lang.Math.max;
 import static java.lang.Math.min;

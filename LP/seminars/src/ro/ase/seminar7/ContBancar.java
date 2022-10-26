@@ -1,4 +1,4 @@
-package ro.ase.seminar6;
+package ro.ase.seminar7;
 
 public abstract class ContBancar extends Cont {
     protected double balanta;
