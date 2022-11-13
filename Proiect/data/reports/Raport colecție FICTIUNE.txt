@@ -1,0 +1,7 @@
+| ISBN              | Titlu           | Autor                          | Editură   | An apariție | Număr pagini |
+| ----------------- | --------------- | ------------------------------ | --------- | ----------- | ------------ |
+| 978-973-6479-24-3 | Theodoros       | Mircea Cărtărescu              | Humanitas | 2022        | 632          |
+| 978-973-7879-92-5 | Imagini ascunse | Jason Rekulak                  | Nemira    | 2022        | 440          |
+| 978-973-9194-30-3 | Ultimul gambit  | Jennifer Lynn Barnes           | Storia    | 2022        | 432          |
+| 978-973-5465-28-3 | Nopti albe      | Feodor Mihailovici Dostoievski | Art       | 2022        | 120          |
+| 978-973-1029-93-1 | Nuvele          | Ion Luca Caragiale             | Cartex    | 2022        | 328          |

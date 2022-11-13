@@ -1,0 +1,5 @@
+| ISBN              | Titlu                          | Autor                          | Editură    | An apariție | Număr pagini | Categorie |
+| ----------------- | ------------------------------ | ------------------------------ | ---------- | ----------- | ------------ | --------- |
+| 978-973-1029-93-1 | Nuvele                         | Ion Luca Caragiale             | Cartex     | 2022        | 328          | FICTIUNE  |
+| 978-973-5465-28-3 | Nopti albe                     | Feodor Mihailovici Dostoievski | Art        | 2022        | 120          | FICTIUNE  |
+| 978-973-0160-27-3 | Mircea Eliade: Definitio sacri | Wilhelm Danca                  | Spandugino | 2022        | 592          | FILOSOFIE |

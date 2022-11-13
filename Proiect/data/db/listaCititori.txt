@@ -1,0 +1,4 @@
+Student;5000418033340;Dulgheru;Mihai-Nicolae;18.04.2000;Bulevardul Iuliu Maniu, nr. 15H;0757949057;dulgherumihai19@stud.ase.ro;
+Student;6000119012345;Lăcătușu;Ana;19.01.2000;Strada Codrii Cosminului, nr. 13;0730123456;lacatusuana19@gmail.com;
+Elev;5071113012346;Dulgheru;Florin-Gabriel;13.11.2007;Bulevardul Muncii, nr. 15;0744567890;dulgheruflorin@gmail.com;
+Elev;5000418033341;Popescu;Ion;01.02.2003;Strada Exercitiu, nr. 1;0723456789;popescu.ion@gmail.com;

@@ -1,0 +1,3 @@
+| ISBN              | Titlu  | Editură | An apariție | Număr pagini | Categorie |
+| ----------------- | ------ | ------- | ----------- | ------------ | --------- |
+| 978-973-1029-93-1 | Nuvele | Cartex  | 2022        | 328          | FICTIUNE  |

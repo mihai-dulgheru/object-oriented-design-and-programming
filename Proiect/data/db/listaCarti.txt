@@ -1,0 +1,10 @@
+978-973-6479-24-3;Theodoros;Mircea Cărtărescu;Humanitas;2022;632;FICTIUNE;
+978-973-7879-92-5;Imagini ascunse;Jason Rekulak;Nemira;2022;440;FICTIUNE;
+978-973-9194-30-3;Ultimul gambit;Jennifer Lynn Barnes;Storia;2022;432;FICTIUNE;
+978-973-3776-01-1;Un om sub semnul intrebarilor;Eugene Ionesco;Nemira;2022;256;TEATRU;
+978-973-3674-29-6;Arta de a fi spectator;Octavian Saiu;Nemira;2022;176;TEATRU;
+978-973-0777-36-5;Opera integrala. Volumul III;Platon;Humanitas;2022;504;FILOSOFIE;
+978-973-0160-27-3;Mircea Eliade: Definitio sacri;Wilhelm Danca;Spandugino;2022;592;FILOSOFIE;
+978-973-5465-28-3;Nopti albe;Feodor Mihailovici Dostoievski;Art;2022;120;FICTIUNE;
+978-973-1029-93-1;Nuvele;Ion Luca Caragiale;Cartex;2022;328;FICTIUNE;
+978-973-6484-85-8;Anatomie artistica. Volumul I: Constructia corpului;Gheorghe Ghitescu;Polirom;2010;160;ARTA;
