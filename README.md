@@ -1,3 +1,1 @@
-# PPOO
-
-Proiectare și programare orientate obiect
+# Object-oriented design and programming
